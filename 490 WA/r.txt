@@ -1,0 +1,4 @@
+As input to your program, you will be given a maximum of
+100 sentences, each not exceeding 100 characters long
+
+Legal characters include: newline, space, any punctuation characters, digits, and lower case or

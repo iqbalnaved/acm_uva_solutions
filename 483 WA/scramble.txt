@@ -1,0 +1,48 @@
+I love you.
+You love     me.
+We're a happy family.
+
+
+I    love   you and     you love   me
+edulcni# >h.oidts<
+edulcni# >h.epytc<
+
+rahc ;]001[kcats
+tni pot = ;0
+
+diov rahc(hsup )c {
+        ]pot[kcats = ;c
+        ;++pot
+}
+
+rahc )(pop {
+        ;--pot
+        nruter ;]pot[kcats
+}
+
+tni )(ytpme {
+        fi pot( == )0
+                nruter ;1
+        nruter ;0
+}
+
+tni )(niam {
+        rahc ;hc
+fednfi# EGDUJ_ENILNO
+        ,"ni.384"(nepoerf ,"r" ;)nidts
+        ,"tuo.384"(nepoerf ,"w" ;)tuodts
+fidne#
+        elihw hc(( = ))(rahcteg =! )FOE {
+                fi ))hc(ecapssi( {
+                        elihw ))(ytpme!(
+                                ;))(pop(rahctup
+                        ;)hc(rahctup
+                }
+                esle {
+                        ;)hc(hsup
+                }
+        }
+        elihw ))(ytpme!(
+                ;))(pop(rahctup
+        nruter ;0
+}
