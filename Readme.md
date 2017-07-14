@@ -11,4 +11,4 @@ Language used: C/C++
 10106      10409      10508      340       483 WA  572     640  
 10205      10415      10520      371 OLE   484 WA  573     641
 
-
+Iqbal Nouyed (iqbalnaved) statistics: http://uhunt.felix-halim.net/id/200531
